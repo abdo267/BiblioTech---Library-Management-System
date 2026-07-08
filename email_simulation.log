@@ -1,0 +1,132 @@
+========================================================
+TIMESTAMP: 2026-07-05 14:01:39
+TO: member@library.com
+SUBJECT: Borrow Request Approved
+MESSAGE:
+Your request for 'The Art of Reading Minds' has been approved. Please collect it. Due date: 2026-07-19.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-05 15:20:23
+TO: 224266@eru.edu.eg
+SUBJECT: Welcome to Library
+MESSAGE:
+Hi abdo,
+
+Welcome to our library system. Your account is now active!
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-05 15:21:28
+TO: 224266@eru.edu.eg
+SUBJECT: Borrow Request Approved
+MESSAGE:
+Your request for 'The Art of Reading Minds' has been approved. Please collect it. Due date: 2026-07-19.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-05 15:36:32
+TO: member@library.com
+SUBJECT: Borrow Request Approved
+MESSAGE:
+Your request for 'Blade Runner' has been approved. Please collect it. Due date: 2026-07-19.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 11:35:52
+TO: member@library.com
+SUBJECT: Book Returned
+MESSAGE:
+Book 'The Art of Reading Minds' has been returned. Late fine charged: $9.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 11:36:10
+TO: member@library.com
+SUBJECT: Fine Payment Settled
+MESSAGE:
+Thank you! Your payment of $9 for late fines has been successfully processed.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 11:37:44
+TO: member@library.com
+SUBJECT: Borrow Request Approved
+MESSAGE:
+Your request for 'The Art of Reading Minds' has been approved. Please collect it. Due date: 2026-07-20.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 11:38:07
+TO: member@library.com
+SUBJECT: Book Returned
+MESSAGE:
+Book 'The Art of Reading Minds' has been returned. Late fine charged: $0.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 11:38:30
+TO: member@library.com
+SUBJECT: Book Returned
+MESSAGE:
+Book 'Blade Runner' has been returned. Late fine charged: $0.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 11:51:09
+TO: abodymody65@gmail.com
+SUBJECT: Welcome to Library
+MESSAGE:
+Hi abdo,
+
+Welcome to our library system. Your account is now active!
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 11:51:39
+TO: abodymody65@gmail.com
+SUBJECT: Borrow Request Approved
+MESSAGE:
+Your request for 'Blade Runner' has been approved. Please collect it. Due date: 2026-07-20.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 12:00:26
+TO: abodymody65@gmail.com
+SUBJECT: Book Returned
+MESSAGE:
+Book 'Blade Runner' has been returned. Late fine charged: $0.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 12:01:20
+TO: abodymody65@gmail.com
+SUBJECT: Borrow Request Rejected
+MESSAGE:
+Your reservation request for 'Blade Runner' was declined. Reason: Rejected
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 12:01:23
+TO: abodymody65@gmail.com
+SUBJECT: Borrow Request Approved
+MESSAGE:
+Your request for 'The Art of Reading Minds' has been approved. Please collect it. Due date: 2026-07-20.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 12:01:39
+TO: abodymody65@gmail.com
+SUBJECT: Book Checked In
+MESSAGE:
+Book 'The Art of Reading Minds' has been returned. Late fine charged: EGP 0.
+========================================================
+
+========================================================
+TIMESTAMP: 2026-07-06 12:13:37
+TO: abodymody65@gmail.com
+SUBJECT: Borrow Request Approved
+MESSAGE:
+Your request for 'Cours d'arabe marocain' has been approved. Please collect it. Due date: 2026-07-20.
+========================================================
+
